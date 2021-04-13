@@ -1,0 +1,187 @@
+﻿  networkStudent.cpp
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(11,13): error C2011: 'Degree': 'enum' type redefinition
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(11): message : see declaration of 'Degree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12,27): error C2374: 'OutPut_StringAsDegree': redefinition; multiple initialization
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12): message : see declaration of 'OutPut_StringAsDegree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.h(13,92): error C2061: syntax error: identifier 'SuperNaturalist_NewAge'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(26,45): error C2143: syntax error: missing ')' before '('
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(26,46): error C2065: 'SuperNaturalist_NewAge': undeclared identifier
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(26,68): error C2206: 'NetworkStudent::{ctor}': typedef cannot be used for function definition
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(26,74): error C2062: type 'int' unexpected
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(26,80): error C2059: syntax error: ')'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27,22): error C2143: syntax error: missing ')' before ','
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27): error C2259: 'Student': cannot instantiate abstract class
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27): message : due to following members:
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27): message : 'void Student::Print(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(53): message : see declaration of 'Student::Print'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27): message : 'Degree Student::GetDegreeProgram(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(54): message : see declaration of 'Student::GetDegreeProgram'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27,10): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27,24): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27,38): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27,51): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27,84): error C2065: 'SuperNaturalist_NewAge': undeclared identifier
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(27,107): error C2248: 'Student::~Student': cannot access protected member declared in class 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(32): message : see declaration of 'Student::~Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(28,7): error C2059: syntax error: ')'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(28): error C2259: 'Student': cannot instantiate abstract class
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(28): message : due to following members:
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(28): message : 'void Student::Print(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(53): message : see declaration of 'Student::Print'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(28): message : 'Degree Student::GetDegreeProgram(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(54): message : see declaration of 'Student::GetDegreeProgram'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(28,9): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(29,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(29,1): error C2248: 'Student::~Student': cannot access protected member declared in class 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(32): message : see declaration of 'Student::~Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+  Roster.cpp
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.cpp(30,1): fatal error C1004: unexpected end-of-file found
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(11,13): error C2011: 'Degree': 'enum' type redefinition
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(11): message : see declaration of 'Degree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12,27): error C2374: 'OutPut_StringAsDegree': redefinition; multiple initialization
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12): message : see declaration of 'OutPut_StringAsDegree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12,27): error C2374: 'OutPut_StringAsDegree': redefinition; multiple initialization
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12): message : see declaration of 'OutPut_StringAsDegree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,15): error C2011: 'Student': 'class' type redefinition
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12,27): error C2374: 'OutPut_StringAsDegree': redefinition; multiple initialization
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12): message : see declaration of 'OutPut_StringAsDegree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.h(7,40): error C2504: 'Student': base class undefined
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.h(12,82): error C2061: syntax error: identifier 'SuperNaturalist_NewAge'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12,27): error C2374: 'OutPut_StringAsDegree': redefinition; multiple initialization
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12): message : see declaration of 'OutPut_StringAsDegree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12,27): error C2374: 'OutPut_StringAsDegree': redefinition; multiple initialization
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12): message : see declaration of 'OutPut_StringAsDegree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.h(7,40): error C2504: 'Student': base class undefined
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.h(12,82): error C2061: syntax error: identifier 'SuperNaturalist_NewAge'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12,27): error C2374: 'OutPut_StringAsDegree': redefinition; multiple initialization
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12): message : see declaration of 'OutPut_StringAsDegree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12,27): error C2374: 'OutPut_StringAsDegree': redefinition; multiple initialization
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12): message : see declaration of 'OutPut_StringAsDegree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.h(7,39): error C2504: 'Student': base class undefined
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.h(13,92): error C2061: syntax error: identifier 'SuperNaturalist_NewAge'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(24,96): error C2664: 'NetworkStudent::NetworkStudent(const NetworkStudent &)': cannot convert argument 5 from 'int' to 'int (__cdecl *)(void)'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(24,78): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\networkStudent.h(13,2): message : see declaration of 'NetworkStudent::NetworkStudent'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(27,97): error C2664: 'SoftwareStudent::SoftwareStudent(const SoftwareStudent &)': cannot convert argument 5 from 'int' to 'int (__cdecl *)(void)'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(27,79): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.h(12,2): message : see declaration of 'SoftwareStudent::SoftwareStudent'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(30,97): error C2664: 'SecurityStudent::SecurityStudent(const SecurityStudent &)': cannot convert argument 5 from 'int' to 'int (__cdecl *)(void)'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(30,79): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.h(12,2): message : see declaration of 'SecurityStudent::SecurityStudent'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(44,6): error C2027: use of undefined type 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(62,22): error C2027: use of undefined type 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(72,6): error C2027: use of undefined type 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(73,44): error C2027: use of undefined type 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(78,31): error C2027: use of undefined type 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(78,77): error C2027: use of undefined type 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(87,44): error C2027: use of undefined type 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(90,88): error C2027: use of undefined type 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(91,38): error C2027: use of undefined type 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(99,6): error C2027: use of undefined type 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\Roster.cpp(100,23): error C2027: use of undefined type 'Student'
+  securityStudent.cpp
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(11,13): error C2011: 'Degree': 'enum' type redefinition
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(11): message : see declaration of 'Degree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12,27): error C2374: 'OutPut_StringAsDegree': redefinition; multiple initialization
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12): message : see declaration of 'OutPut_StringAsDegree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.h(12,82): error C2061: syntax error: identifier 'SuperNaturalist_NewAge'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(25,45): error C2143: syntax error: missing ')' before '('
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(25,46): error C2065: 'SuperNaturalist_NewAge': undeclared identifier
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(25,68): error C2206: 'SecurityStudent::{ctor}': typedef cannot be used for function definition
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(25,74): error C2062: type 'int' unexpected
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(25,80): error C2059: syntax error: ')'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26,22): error C2143: syntax error: missing ')' before ','
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26): error C2259: 'Student': cannot instantiate abstract class
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26): message : due to following members:
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26): message : 'void Student::Print(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(53): message : see declaration of 'Student::Print'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26): message : 'Degree Student::GetDegreeProgram(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(54): message : see declaration of 'Student::GetDegreeProgram'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26,10): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26,24): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26,38): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26,51): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26,84): error C2065: 'SuperNaturalist_NewAge': undeclared identifier
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(26,107): error C2248: 'Student::~Student': cannot access protected member declared in class 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(32): message : see declaration of 'Student::~Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(27,7): error C2059: syntax error: ')'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(27): error C2259: 'Student': cannot instantiate abstract class
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(27): message : due to following members:
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(27): message : 'void Student::Print(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(53): message : see declaration of 'Student::Print'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(27): message : 'Degree Student::GetDegreeProgram(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(54): message : see declaration of 'Student::GetDegreeProgram'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(27,9): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(28,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(28,1): error C2248: 'Student::~Student': cannot access protected member declared in class 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(32): message : see declaration of 'Student::~Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+  softwareStudent.cpp
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\securityStudent.cpp(29,1): fatal error C1004: unexpected end-of-file found
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(11,13): error C2011: 'Degree': 'enum' type redefinition
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(11): message : see declaration of 'Degree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12,27): error C2374: 'OutPut_StringAsDegree': redefinition; multiple initialization
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\degree.h(12): message : see declaration of 'OutPut_StringAsDegree'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.h(12,82): error C2061: syntax error: identifier 'SuperNaturalist_NewAge'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(26,45): error C2143: syntax error: missing ')' before '('
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(26,46): error C2065: 'SuperNaturalist_NewAge': undeclared identifier
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(26,68): error C2206: 'SoftwareStudent::{ctor}': typedef cannot be used for function definition
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(26,74): error C2062: type 'int' unexpected
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(26,80): error C2059: syntax error: ')'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27,22): error C2143: syntax error: missing ')' before ','
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27): error C2259: 'Student': cannot instantiate abstract class
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27): message : due to following members:
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27): message : 'void Student::Print(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(53): message : see declaration of 'Student::Print'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27): message : 'Degree Student::GetDegreeProgram(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(54): message : see declaration of 'Student::GetDegreeProgram'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27,10): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27,24): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27,38): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27,51): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7,7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27,84): error C2065: 'SuperNaturalist_NewAge': undeclared identifier
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(27,107): error C2248: 'Student::~Student': cannot access protected member declared in class 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(32): message : see declaration of 'Student::~Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(28,7): error C2059: syntax error: ')'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(28): error C2259: 'Student': cannot instantiate abstract class
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(28): message : due to following members:
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(28): message : 'void Student::Print(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(53): message : see declaration of 'Student::Print'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(28): message : 'Degree Student::GetDegreeProgram(void)': is abstract
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(54): message : see declaration of 'Student::GetDegreeProgram'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(28,9): error C2512: 'Student': no appropriate default constructor available
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(30,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(30,1): error C2248: 'Student::~Student': cannot access protected member declared in class 'Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(32): message : see declaration of 'Student::~Student'
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\student.h(7): message : see declaration of 'Student'
+  student.cpp
+  Generating Code...
+C:\Users\andre\source\repos\FPP1_TASK 1\FPP1_TASK 1\softwareStudent.cpp(32,1): fatal error C1004: unexpected end-of-file found
